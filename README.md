@@ -4,7 +4,7 @@ Uma landing page responsiva com tema de restaurante, construída com HTML, CSS e
 
 ## 🌐 Visualize o projeto:
 
-**[Ver Projeto Online]([https://food-page.onrender.com])**
+**[Ver Projeto Online](https://food-page.onrender.com)**
 
 ## 🛠️ Tecnologias Utilizadas
 
